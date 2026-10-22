@@ -1,19 +1,19 @@
 {
   "product": "OS-builder",
-  "version": "4.6.1",
-  "build": "461-20261022",
+  "version": "4.6.2",
+  "build": "462-20261022",
   "channel": "stable",
-  "tag": "v4.6.1",
+  "tag": "v4.6.2",
   "published": "2026-10-22",
   "notes": {
-    "en": "New 'Buy license / prices' button in the license window, linking to the pricing page.",
-    "nl": "Nieuwe knop 'Licentie kopen / prijzen' in het licentievenster, met een link naar de prijzenpagina."
+    "en": "OS-builder now shows its own program icon (desktop, start menu, taskbar and windows).",
+    "nl": "OS-builder toont nu het eigen programma-icoon (bureaublad, startmenu, taakbalk en vensters)."
   },
   "installer": {
-    "filename": "SnoopOSBuilder_v4.6.1_Setup.exe",
-    "download_url": "https://github.com/cyberfirepulse/OS-builder/releases/download/v4.6.1/SnoopOSBuilder_v4.6.1_Setup.exe",
-    "sha256": "14cf8b86df2b3d375e60758223e09e558e5c1b2dae39c65ffe0aa4577be10b4b"
+    "filename": "SnoopOSBuilder_v4.6.2_Setup.exe",
+    "download_url": "https://github.com/cyberfirepulse/OS-builder/releases/download/v4.6.2/SnoopOSBuilder_v4.6.2_Setup.exe",
+    "sha256": "f2574b299831719d15c9451500224be781b0fbb1aa8b81fb6b24f12d691b8f36"
   },
-  "download_url": "https://github.com/cyberfirepulse/OS-builder/releases/download/v4.6.1/SnoopOSBuilder_v4.6.1_Setup.exe",
-  "sha256": "14cf8b86df2b3d375e60758223e09e558e5c1b2dae39c65ffe0aa4577be10b4b"
+  "download_url": "https://github.com/cyberfirepulse/OS-builder/releases/download/v4.6.2/SnoopOSBuilder_v4.6.2_Setup.exe",
+  "sha256": "f2574b299831719d15c9451500224be781b0fbb1aa8b81fb6b24f12d691b8f36"
 }
