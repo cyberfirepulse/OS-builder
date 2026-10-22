@@ -1,19 +1,19 @@
 {
   "product": "OS-builder",
-  "version": "4.6.0",
-  "build": "460-20261022",
+  "version": "4.6.1",
+  "build": "461-20261022",
   "channel": "stable",
-  "tag": "v4.6.0",
+  "tag": "v4.6.1",
   "published": "2026-10-22",
   "notes": {
-    "en": "License check (same system as CAMT and Snoop), automatic updates via GitHub, and multilingual messages (English, Dutch).",
-    "nl": "Licentiecontrole (zelfde systeem als CAMT en Snoop), automatische updates via GitHub en meertalige meldingen (Engels, Nederlands)."
+    "en": "New 'Buy license / prices' button in the license window, linking to the pricing page.",
+    "nl": "Nieuwe knop 'Licentie kopen / prijzen' in het licentievenster, met een link naar de prijzenpagina."
   },
   "installer": {
-    "filename": "SnoopOSBuilder_v4.6.0_Setup.exe",
-    "download_url": "https://github.com/cyberfirepulse/OS-builder/releases/download/v4.6.0/SnoopOSBuilder_v4.6.0_Setup.exe",
-    "sha256": "3776a3c604aa3288db565a0fc6ace06e5b51fa9b58c2a2cf148e325d6e27ab5d"
+    "filename": "SnoopOSBuilder_v4.6.1_Setup.exe",
+    "download_url": "https://github.com/cyberfirepulse/OS-builder/releases/download/v4.6.1/SnoopOSBuilder_v4.6.1_Setup.exe",
+    "sha256": "14cf8b86df2b3d375e60758223e09e558e5c1b2dae39c65ffe0aa4577be10b4b"
   },
-  "download_url": "https://github.com/cyberfirepulse/OS-builder/releases/download/v4.6.0/SnoopOSBuilder_v4.6.0_Setup.exe",
-  "sha256": "3776a3c604aa3288db565a0fc6ace06e5b51fa9b58c2a2cf148e325d6e27ab5d"
+  "download_url": "https://github.com/cyberfirepulse/OS-builder/releases/download/v4.6.1/SnoopOSBuilder_v4.6.1_Setup.exe",
+  "sha256": "14cf8b86df2b3d375e60758223e09e558e5c1b2dae39c65ffe0aa4577be10b4b"
 }
