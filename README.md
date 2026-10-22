@@ -1,20 +1,35 @@
 # OS-builder
 
-Releases en updates van **OS-builder** (Snoop OS Builder) door CyberFirePulse.
+Releases and updates of **OS-builder** (Snoop OS Builder) by CyberFirePulse.
 
-## Downloaden
+## Download
 
-De installers staan onder **[Releases](https://github.com/cyberfirepulse/OS-builder/releases)**.
-Bij elke installer hoort een `.sha256`-bestand waarmee je kunt controleren of de download klopt:
+Installers are published under **[Releases](https://github.com/cyberfirepulse/OS-builder/releases)**.
+Each installer comes with a `.sha256` file so you can verify the download:
 
 ```
-certutil -hashfile SnoopOSBuilder_v<versie>_Setup.exe SHA256
+certutil -hashfile SnoopOSBuilder_v<version>_Setup.exe SHA256
 ```
 
-Voor het gebruik van OS-builder is een licentiesleutel nodig (`OSB-…`).
+A license key (`OSB-…`) is required to use OS-builder.
 
-## Automatische updates
+## Automatic updates
 
-OS-builder kijkt bij het opstarten in [`update.json`](update.json) of er een nieuwere versie is
-(en via **Help → Controleren op updates…**). De nieuwe setup wordt alleen gestart als de
-SHA-256 uit `update.json` overeenkomt met de download.
+At startup, OS-builder checks [`update.json`](update.json) for a newer version
+(also available via **Help → Check for updates…**). A downloaded setup is only started
+when its SHA-256 matches the value in `update.json`.
+
+## Languages
+
+OS-builder follows the Windows display language when a translation is available
+(currently English and Dutch) and falls back to English otherwise.
+The language can be changed via **Help → Language**.
+
+---
+
+### Nederlands
+
+Installers staan onder **Releases**; bij elke installer hoort een `.sha256`-bestand om de download
+te controleren. Voor OS-builder is een licentiesleutel (`OSB-…`) nodig. OS-builder controleert bij het
+opstarten zelf op updates (of via **Help → Controleren op updates…**) en start een nieuwe setup alleen
+als de SHA-256 klopt. De taal volgt Windows en is te wijzigen via **Help → Taal / Language**.
