@@ -1,19 +1,19 @@
 {
   "product": "OS-builder",
-  "version": "4.6.2",
-  "build": "462-20261022",
+  "version": "4.6.3",
+  "build": "463-20261022",
   "channel": "stable",
-  "tag": "v4.6.2",
+  "tag": "v4.6.3",
   "published": "2026-10-22",
   "notes": {
-    "en": "OS-builder now shows its own program icon (desktop, start menu, taskbar and windows).",
-    "nl": "OS-builder toont nu het eigen programma-icoon (bureaublad, startmenu, taakbalk en vensters)."
+    "en": "The program is now listed as 'OS-builder' in the Start menu, on the desktop and in Windows Apps (old 'Snoop OS Builder' shortcuts are removed).",
+    "nl": "Het programma heet nu 'OS-builder' in het startmenu, op het bureaublad en in Windows Apps (oude snelkoppelingen 'Snoop OS Builder' worden opgeruimd)."
   },
   "installer": {
-    "filename": "SnoopOSBuilder_v4.6.2_Setup.exe",
-    "download_url": "https://github.com/cyberfirepulse/OS-builder/releases/download/v4.6.2/SnoopOSBuilder_v4.6.2_Setup.exe",
-    "sha256": "f2574b299831719d15c9451500224be781b0fbb1aa8b81fb6b24f12d691b8f36"
+    "filename": "SnoopOSBuilder_v4.6.3_Setup.exe",
+    "download_url": "https://github.com/cyberfirepulse/OS-builder/releases/download/v4.6.3/SnoopOSBuilder_v4.6.3_Setup.exe",
+    "sha256": "a22e300393b7da20ffd640221cc184bedc56ebdef1b94cf3f4f93019ba0089a3"
   },
-  "download_url": "https://github.com/cyberfirepulse/OS-builder/releases/download/v4.6.2/SnoopOSBuilder_v4.6.2_Setup.exe",
-  "sha256": "f2574b299831719d15c9451500224be781b0fbb1aa8b81fb6b24f12d691b8f36"
+  "download_url": "https://github.com/cyberfirepulse/OS-builder/releases/download/v4.6.3/SnoopOSBuilder_v4.6.3_Setup.exe",
+  "sha256": "a22e300393b7da20ffd640221cc184bedc56ebdef1b94cf3f4f93019ba0089a3"
 }
